@@ -15,7 +15,7 @@ breadcrumbs: false
 # 构建设置
 markdown: kramdown
 url: "https://shaky-lu.github.io"
-baseurl: "/insarsxg"
+baseurl: "/InSAR_SXG"
 timezone: "Asia/Shanghai"
 paginate: 0
 
